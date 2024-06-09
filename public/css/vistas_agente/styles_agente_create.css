@@ -1,0 +1,21 @@
+body {
+    background-color: #2C3E50;
+    color:  #F1C40F;
+    font-weight: bold;
+}
+
+h1 {
+    color: #F1C40F;
+}
+
+.btn-primary {
+    background-color: #F1C40F;
+    border-color: #F1C40F;
+    color: #2C3E50;
+}
+
+.btn-primary:hover {
+    background-color: #d4ac0d;
+    border-color: #d4ac0d;
+    color: #2C3E50;
+}

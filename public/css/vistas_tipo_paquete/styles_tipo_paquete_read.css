@@ -1,0 +1,22 @@
+body {
+    background-color: #2C3E50;
+    color: #ECF0F1;
+}
+
+h1 {
+    color: #F1C40F;
+}
+
+.table-dark {
+    background-color: #34495E;
+}
+
+.table-dark th {
+    color: #F1C40F;
+    border-color: #F1C40F;
+}
+
+.table-dark td {
+    color: #ECF0F1;
+    border-color: #F1C40F;
+}
